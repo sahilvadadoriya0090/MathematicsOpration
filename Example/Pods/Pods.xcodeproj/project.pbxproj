@@ -13,10 +13,10 @@
 		68C99D506D293CE1F6007DE11E179F35 /* MathematicsOpration-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = BC49865146B582A917B22C23EA1CED26 /* MathematicsOpration-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		7CBD4EE4E875887C4E4D16942AE35D70 /* Pods-MathematicsOpration_Tests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 0855E0CCFCF4F7BBD7D3519E29B2B4EA /* Pods-MathematicsOpration_Tests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		7D3B75F520573FF00295812DA71512F8 /* Pods-MathematicsOpration_Tests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = D69E839B30133E11916E691396AF7B69 /* Pods-MathematicsOpration_Tests-dummy.m */; };
-		92D650678B8A732EB59993A6CE03DB66 /* ReplaceMe.swift in Sources */ = {isa = PBXBuildFile; fileRef = BC64739410D1B69FBF586CDF7E55ED42 /* ReplaceMe.swift */; };
 		A1EDB89C0068D63979D08BE15F6DB9E3 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */; };
 		C8E9FC1D3C5CEF78296AA4880FB93CB2 /* MathematicsOpration-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = ECBBDC732C2F5E4A9FECEFA306B76037 /* MathematicsOpration-dummy.m */; };
 		E852E5BC20B288159C1E89A54B35EEF5 /* Pods-MathematicsOpration_Example-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 34E68F46F000CA42BFF6136C590FCB9B /* Pods-MathematicsOpration_Example-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		E8CEABEC2702FA7700661155 /* MathematicsOpration.swift in Sources */ = {isa = PBXBuildFile; fileRef = E8CEABEB2702FA7700661155 /* MathematicsOpration.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,21 +51,21 @@
 		7B9223AD590DD752334E934EB7F0E2DE /* Pods-MathematicsOpration_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-MathematicsOpration_Example-frameworks.sh"; sourceTree = "<group>"; };
 		7DA936834FDE8AF0E6EE071CB15DE7D7 /* Pods-MathematicsOpration_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-MathematicsOpration_Example.modulemap"; sourceTree = "<group>"; };
 		8E53712C163C0235FC8A75025002B38C /* Pods-MathematicsOpration_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-MathematicsOpration_Tests.modulemap"; sourceTree = "<group>"; };
-		8F2CD1B893981A088386CB23E812B953 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
-		921E7C80FFCB12C6803AEB73AE578D8B /* MathematicsOpration.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = MathematicsOpration.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		8F2CD1B893981A088386CB23E812B953 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
+		921E7C80FFCB12C6803AEB73AE578D8B /* MathematicsOpration.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; path = MathematicsOpration.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		9407666DBF5C8106E12CB94F496899A9 /* MathematicsOpration.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = MathematicsOpration.modulemap; sourceTree = "<group>"; };
-		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		BA20BC45214581EEBC16FEE2C7ACA775 /* Pods-MathematicsOpration_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-MathematicsOpration_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		BBC4017D5C4CA23EED0B02CB5653D052 /* Pods-MathematicsOpration_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-MathematicsOpration_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
 		BC49865146B582A917B22C23EA1CED26 /* MathematicsOpration-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "MathematicsOpration-umbrella.h"; sourceTree = "<group>"; };
-		BC64739410D1B69FBF586CDF7E55ED42 /* ReplaceMe.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ReplaceMe.swift; path = MathematicsOpration/Classes/ReplaceMe.swift; sourceTree = "<group>"; };
 		C55CFBE3ABCC0E9C860FBB89ECF6F939 /* MathematicsOpration.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = MathematicsOpration.debug.xcconfig; sourceTree = "<group>"; };
 		CF02C703A67DC7F36CCD89C2EF050661 /* Pods-MathematicsOpration_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-MathematicsOpration_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		D69E839B30133E11916E691396AF7B69 /* Pods-MathematicsOpration_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-MathematicsOpration_Tests-dummy.m"; sourceTree = "<group>"; };
 		D926E4BEAC8C7AA117664F05D5FC8DC9 /* MathematicsOpration */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = MathematicsOpration; path = MathematicsOpration.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		DED822DECCF8F70CAEDCC429C0753605 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
+		DED822DECCF8F70CAEDCC429C0753605 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		E0CB1CF44705F925E745CE919B11ECBC /* Pods-MathematicsOpration_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-MathematicsOpration_Example-dummy.m"; sourceTree = "<group>"; };
 		E50CA6BAB1A0D7DC069A8D8049A68E35 /* MathematicsOpration-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "MathematicsOpration-Info.plist"; sourceTree = "<group>"; };
+		E8CEABEB2702FA7700661155 /* MathematicsOpration.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = MathematicsOpration.swift; path = MathematicsOpration/Classes/MathematicsOpration.swift; sourceTree = "<group>"; };
 		ECBBDC732C2F5E4A9FECEFA306B76037 /* MathematicsOpration-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "MathematicsOpration-dummy.m"; sourceTree = "<group>"; };
 		EF9B48642D8933C16A287062675DD564 /* Pods-MathematicsOpration_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-MathematicsOpration_Example.release.xcconfig"; sourceTree = "<group>"; };
 		F0DDA570B028892A92B05F8BB9BA6E92 /* Pods-MathematicsOpration_Example */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = "Pods-MathematicsOpration_Example"; path = Pods_MathematicsOpration_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -148,7 +148,7 @@
 		9082A4CBB3FE5796272B22C4ABDED3A3 /* MathematicsOpration */ = {
 			isa = PBXGroup;
 			children = (
-				BC64739410D1B69FBF586CDF7E55ED42 /* ReplaceMe.swift */,
+				E8CEABEB2702FA7700661155 /* MathematicsOpration.swift */,
 				2E89FC9220AB293F59F42FCC7CC8DE24 /* Pod */,
 				F79963B9FE53A783A99B1FEBFAA74140 /* Support Files */,
 			);
@@ -376,7 +376,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				C8E9FC1D3C5CEF78296AA4880FB93CB2 /* MathematicsOpration-dummy.m in Sources */,
-				92D650678B8A732EB59993A6CE03DB66 /* ReplaceMe.swift in Sources */,
+				E8CEABEC2702FA7700661155 /* MathematicsOpration.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -688,8 +688,7 @@
 				MTL_FAST_MATH = YES;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRIP_INSTALLED_PRODUCT = NO;
-				SWIFT_COMPILATION_MODE = wholemodule;
-				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
 				SWIFT_VERSION = 5.0;
 				SYMROOT = "${SRCROOT}/../build";
 			};
